@@ -2,7 +2,7 @@ import React from 'react';
 
 const ClickCounter = (props) => {
   return (
-    <div data-test="">ClickCounter</div>
+    <div data-test="foo">ClickCounter</div>
   );
 };
 
